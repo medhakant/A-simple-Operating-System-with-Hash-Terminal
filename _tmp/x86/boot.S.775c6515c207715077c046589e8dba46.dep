@@ -1,0 +1,4 @@
+_tmp/x86/boot.S.775c6515c207715077c046589e8dba46.dep   ./_tmp/x86/boot.775c6515c207715077c046589e8dba46.o: \
+ x86/boot.S /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
